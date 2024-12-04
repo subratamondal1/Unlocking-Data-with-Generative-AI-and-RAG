@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "unlocking-data-with-generative-ai-and-rag"
+version = "0.1.0"
+description = "This is the code repository for Unlocking Data with Generative AI and RAG. I am using it to Learn."
+license = "MIT"
+authors = ["subratamondal1 <subratasubha2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
